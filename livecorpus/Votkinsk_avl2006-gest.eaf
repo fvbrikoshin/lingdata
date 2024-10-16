@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-17T02:41:12+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-17T02:49:56+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///C:/Users/Фёдор/Downloads/Votkinsk_avl2006.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Votkinsk_avl2006.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ee58a8bf-3f4e-4e92-89a4-d4f8e1509daf</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">592</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">593</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="594134"/>
@@ -2578,7 +2578,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a475"
                 TIME_SLOT_REF1="ts264" TIME_SLOT_REF2="ts265">
-                <ANNOTATION_VALUE>слабо помотал головой</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>слабо мотает головой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2788,6 +2788,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a593" ANNOTATION_REF="a458" CVE_REF="cveid_a830eef2-fdbd-4e6d-9eb6-31813835d647">
+                <ANNOTATION_VALUE>body</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a464" ANNOTATION_REF="a459" CVE_REF="cveid_6782b87d-5262-4eb3-a71c-7e0547a8f54f">
                 <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -2975,7 +2980,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a479"
                 TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
-                <ANNOTATION_VALUE>ритмическое биение</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ритмически двигает руками</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3005,7 +3010,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a500"
                 TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts109">
-                <ANNOTATION_VALUE>имитация бросания</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>двигает кистями рук вперёд</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3257,7 +3262,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a586" ANNOTATION_REF="a522">
-                <ANNOTATION_VALUE>подчёркивать ритм фразы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>подчёркивает ритм фразы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
