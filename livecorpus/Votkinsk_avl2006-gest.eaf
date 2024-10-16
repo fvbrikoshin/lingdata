@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-16T23:42:58+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-10-16T23:58:16+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///C:/Users/Фёдор/Downloads/Votkinsk_avl2006.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Votkinsk_avl2006.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ee58a8bf-3f4e-4e92-89a4-d4f8e1509daf</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">569</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">578</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="594134"/>
@@ -93,8 +93,8 @@
         <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="608451"/>
         <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="608477"/>
         <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="608492"/>
-        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="608759"/>
-        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="608783"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="609374"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="609374"/>
         <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="609400"/>
         <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="609431"/>
         <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="609503"/>
@@ -2558,13 +2558,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a453"
                 TIME_SLOT_REF1="ts184" TIME_SLOT_REF2="ts191">
-                <ANNOTATION_VALUE>placeholde</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>движется вправо и двигает предмет за кадром правой рукой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a454"
                 TIME_SLOT_REF1="ts192" TIME_SLOT_REF2="ts199">
-                <ANNOTATION_VALUE>placeholder</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>движется влево и опускает правую руку</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2961,7 +2961,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a477"
                 TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE>placeholder</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поднимает руки и складывает их</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2973,13 +2973,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a479"
                 TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
-                <ANNOTATION_VALUE>placeholder</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>раскрывает руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a480"
                 TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts94">
-                <ANNOTATION_VALUE>placeholder</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>чешет правый глаз</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3003,19 +3003,19 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a500"
                 TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts109">
-                <ANNOTATION_VALUE>placeholder</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>имитация бросания</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a501"
                 TIME_SLOT_REF1="ts110" TIME_SLOT_REF2="ts120">
-                <ANNOTATION_VALUE>placeholder</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>водит руками</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a502"
                 TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts128">
-                <ANNOTATION_VALUE>placeholder</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>слабо разводит руками с поворотом</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3033,7 +3033,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a504"
                 TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts171">
-                <ANNOTATION_VALUE>placeholder</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ставит две руки вертикально, параллельно</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3045,13 +3045,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a518"
                 TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts188">
-                <ANNOTATION_VALUE>placeholder</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>рисует в воздухе пальцами линии от одной точки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a519"
                 TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts194">
-                <ANNOTATION_VALUE>placeholder</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>складывает пальцы рук вместе, а затем и руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3168,8 +3168,53 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a571" ANNOTATION_REF="a500">
+                <ANNOTATION_VALUE>изобразительный жест: показывает кластер</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a570" ANNOTATION_REF="a501">
+                <ANNOTATION_VALUE>изобразительный жест: показывает пространство листа бумаги</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a572" ANNOTATION_REF="a502">
+                <ANNOTATION_VALUE>что тут поделаешь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a573" ANNOTATION_REF="a503">
+                <ANNOTATION_VALUE>что тут поделаешь?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a574" ANNOTATION_REF="a532">
+                <ANNOTATION_VALUE>готовность к следующей реплике собеседника</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a575" ANNOTATION_REF="a504">
+                <ANNOTATION_VALUE>изобразительный жест: показать лист тетради</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a533" ANNOTATION_REF="a505">
                 <ANNOTATION_VALUE>изобратительный жест: показать круг</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a576" ANNOTATION_REF="a518">
+                <ANNOTATION_VALUE>изобразительный жест: изображает ветки подтем</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a577" ANNOTATION_REF="a519">
+                <ANNOTATION_VALUE>неуверенность в том что говорить дальше</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a578" ANNOTATION_REF="a520">
+                <ANNOTATION_VALUE>начинает отвечать на вопрос</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
